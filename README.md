@@ -4,7 +4,7 @@ A Python CLI application to manage a personal book library — built as a final 
 
 ## About
 
-This project allows users to add, save, load, and visualize books in a personal library. It was built to practice core Python concepts including functions, loops, file handling, JSON, and error management.
+This is a command-line application where users can manage their personal book collection. The project was built to apply core Python concepts learned throughout the course, from basic functions all the way to file handling and error management.
 
 ## Features
 
